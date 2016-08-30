@@ -1,4 +1,4 @@
 # hellow-
 readme-edit
-nehayadavyadav
-kirti college
+nehasyadav 
+kirti college 
